@@ -1,0 +1,18 @@
+{
+  "name": "Atelier — See it in your space",
+  "short_name": "Atelier",
+  "description": "A web-based AR try-on for considered furniture and decor.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f6f1ea",
+  "theme_color": "#f6f1ea",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    }
+  ]
+}
